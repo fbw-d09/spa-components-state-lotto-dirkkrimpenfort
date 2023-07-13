@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lucky-numbers/static/css/main.2fb03aed.css",
+    "main.js": "/react-lucky-numbers/static/js/main.33f605a6.js",
+    "index.html": "/react-lucky-numbers/index.html",
+    "main.2fb03aed.css.map": "/react-lucky-numbers/static/css/main.2fb03aed.css.map",
+    "main.33f605a6.js.map": "/react-lucky-numbers/static/js/main.33f605a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb03aed.css",
+    "static/js/main.33f605a6.js"
+  ]
+}

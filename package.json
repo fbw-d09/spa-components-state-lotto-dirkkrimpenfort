@@ -1,5 +1,6 @@
 {
   "name": "react-lucky-numbers",
+  "homepage" : "https://{dirkkrimpenfort}.github.io/react-lucky-numbers",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -36,7 +39,8 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.2",
-    "@types/jest": "^27.4.1"
+    "@types/jest": "^27.4.1",
+    "gh-pages": "^5.0.0"
   },
   "repository": {
     "type": "git",
