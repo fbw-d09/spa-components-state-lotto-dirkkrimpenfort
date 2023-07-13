@@ -1,5 +1,5 @@
 # Lotto numbers
-[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
+[![Status overview badge](../../blob/badges/.github/badges/gh-pages/badge.svg)](#-results)
 
 
 Let's create a `LuckyNumbers` component in the provided file `src/components/LuckyNumbers/index.js`
@@ -29,12 +29,12 @@ On clicking on the "Reset" button all numbers should be removed.
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | 'Show me lucky numbers' button exists |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | Clicking 'Show me lucky numbers' creates seven numbers from 1 to 49 |
-| ![Status](../../blob/badges/.github/badges/main/status2.svg) | Last number (super number) is always between 1 and 10 |
-| ![Status](../../blob/badges/.github/badges/main/status3.svg) | Every click on 'Show me lucky numbers' creates unique numbers |
-| ![Status](../../blob/badges/.github/badges/main/status4.svg) | 'reset' button exists |
-| ![Status](../../blob/badges/.github/badges/main/status5.svg) | 'reset' button removes lucky numbers |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status0.svg) | 'Show me lucky numbers' button exists |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status1.svg) | Clicking 'Show me lucky numbers' creates seven numbers from 1 to 49 |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status2.svg) | Last number (super number) is always between 1 and 10 |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status3.svg) | Every click on 'Show me lucky numbers' creates unique numbers |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status4.svg) | 'reset' button exists |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status5.svg) | 'reset' button removes lucky numbers |
 
 
 
